@@ -3,6 +3,7 @@ Focused on foundational AI concepts, such as informed state-space search, probab
 
 ## Search
 Implemented depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
+
 ![maze](https://user-images.githubusercontent.com/25239743/188752957-48e3857d-cba2-4aea-97d5-ce2f5e92a6b3.png)
 
 ## Multi-Agent Search
