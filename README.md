@@ -2,9 +2,9 @@
 Focused on foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. Implemented AI utilizes DFS, BFS, uniform cost, A*, reinforcement learning algorithms to solve various scenarios in pseudo-random, multi-agent adversarial environments. 
 
 ## Search
-Implemented depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
-
 ![maze](https://user-images.githubusercontent.com/25239743/188752957-48e3857d-cba2-4aea-97d5-ce2f5e92a6b3.png)
+
+Implemented depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
 
 ## Multi-Agent Search
 ![pacman_multi_agent](https://user-images.githubusercontent.com/25239743/188753086-378ce330-2062-4a93-b55b-607f77a6b3ed.png)
