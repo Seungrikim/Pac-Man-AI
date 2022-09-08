@@ -1,4 +1,4 @@
-# Pac-Man AI Search
+# Pac-Man AI
 Focused on foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. Implemented AI utilizes DFS, BFS, uniform cost, A*, reinforcement learning algorithms to solve various scenarios in pseudo-random, multi-agent adversarial environments. 
 
 ## Search
